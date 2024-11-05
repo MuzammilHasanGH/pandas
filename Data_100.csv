@@ -1,0 +1,101 @@
+ID,Name,Age,City,Salary,Department
+1,Bob,59,Houston,31193.85,Finance
+2,David,46,Houston,43679.14,Finance
+3,Eve,33,Phoenix,85041.2,HR
+4,Alice,50,Phoenix,63268.44,Finance
+5,Eve,25,Houston,55288.67,Sales
+6,Bob,54,Houston,40084.92,HR
+7,David,23,Phoenix,73706.22,Engineering
+8,David,18,Chicago,57112.64,Sales
+9,Eve,57,Phoenix,96225.22,Sales
+10,David,52,Chicago,99410.57,Finance
+11,Charlie,22,New York,43053.22,Finance
+12,David,50,Phoenix,46440.64,HR
+13,Bob,45,Los Angeles,90610.76,Marketing
+14,Eve,57,Los Angeles,86240.43,Sales
+15,Charlie,47,Los Angeles,56181.35,HR
+16,Bob,39,Los Angeles,47375.28,Marketing
+17,Eve,45,New York,40164.08,HR
+18,Alice,48,Los Angeles,68021.73,Sales
+19,David,47,Houston,73343.38,Finance
+20,Alice,57,Houston,60335.35,Marketing
+21,Charlie,51,Los Angeles,99694.54,Marketing
+22,Eve,45,New York,69142.9,Engineering
+23,Charlie,33,Chicago,45377.46,Marketing
+24,Alice,37,Phoenix,93879.32,Engineering
+25,Charlie,21,Phoenix,57244.35,Marketing
+26,Alice,39,Phoenix,99505.8,Finance
+27,Bob,48,New York,93087.53,Finance
+28,Bob,55,Houston,75828.74,HR
+29,David,35,Phoenix,78416.29,HR
+30,Alice,23,Los Angeles,35976.89,Finance
+31,Charlie,52,Houston,75873.95,Engineering
+32,Charlie,46,Phoenix,95652.81,Marketing
+33,David,26,Houston,94862.31,HR
+34,Alice,21,Los Angeles,31973.77,Marketing
+35,Bob,52,New York,68761.17,Sales
+36,Charlie,34,Los Angeles,94382.41,HR
+37,Alice,50,Los Angeles,63338.54,Engineering
+38,David,43,Houston,98931.62,Marketing
+39,Eve,35,Phoenix,98166.94,Marketing
+40,Charlie,31,New York,88204.72,HR
+41,Bob,42,Phoenix,66999.69,Finance
+42,David,47,Los Angeles,96428.2,Engineering
+43,Charlie,32,New York,39059.11,HR
+44,Alice,33,New York,64251.23,Finance
+45,Bob,55,Phoenix,45178.5,Engineering
+46,Bob,32,Chicago,52291.13,Finance
+47,David,43,Houston,95555.0,Engineering
+48,Alice,54,Chicago,71684.53,Engineering
+49,Alice,26,New York,51802.56,Finance
+50,Bob,43,Phoenix,79224.95,Finance
+51,Alice,29,Chicago,52362.86,HR
+52,David,56,New York,79152.83,Marketing
+53,Eve,42,New York,97121.11,Sales
+54,Bob,45,New York,48571.73,Marketing
+55,David,30,Chicago,70779.95,Engineering
+56,Alice,22,Phoenix,83849.6,HR
+57,Alice,49,New York,83104.49,Finance
+58,Bob,32,Chicago,83223.95,Finance
+59,Charlie,57,Los Angeles,82015.62,Sales
+60,Alice,41,Chicago,67695.17,Finance
+61,Bob,44,New York,81880.45,Engineering
+62,David,24,Houston,32439.3,Marketing
+63,Bob,33,Phoenix,53450.58,Marketing
+64,David,21,Los Angeles,78049.81,Marketing
+65,Eve,29,New York,67677.16,Sales
+66,Bob,46,Chicago,64122.41,Sales
+67,Eve,57,Chicago,65640.83,Finance
+68,Bob,39,Houston,93911.26,Finance
+69,David,28,New York,94382.45,Marketing
+70,Alice,29,Phoenix,72864.55,Engineering
+71,Eve,32,Los Angeles,94118.05,HR
+72,David,41,Los Angeles,57557.94,Sales
+73,Alice,18,Chicago,32897.19,Finance
+74,David,47,Houston,96808.06,HR
+75,Alice,22,Houston,82611.52,Finance
+76,Alice,32,New York,56820.42,Finance
+77,David,31,New York,88206.7,Marketing
+78,Alice,27,Los Angeles,99118.67,Sales
+79,Alice,25,New York,33103.86,Sales
+80,Charlie,31,Chicago,64111.81,Finance
+81,Eve,35,Los Angeles,84334.72,Marketing
+82,Eve,36,Houston,66834.46,Finance
+83,Eve,53,Phoenix,95614.52,HR
+84,Bob,57,Phoenix,88172.83,Marketing
+85,Eve,27,New York,79317.19,Finance
+86,Bob,31,Houston,82468.42,Finance
+87,Alice,46,Phoenix,67373.26,Marketing
+88,Charlie,21,Houston,71550.68,HR
+89,Eve,32,Houston,62054.85,Sales
+90,Charlie,30,Los Angeles,68323.59,Finance
+91,Eve,30,New York,47191.4,HR
+92,Eve,29,Los Angeles,61867.69,Finance
+93,David,38,New York,63733.43,Finance
+94,Charlie,40,New York,61780.19,HR
+95,David,41,Houston,43249.58,Finance
+96,Alice,20,New York,33093.54,Sales
+97,David,20,Houston,58761.46,Finance
+98,Alice,28,Los Angeles,88482.48,Sales
+99,Alice,36,Phoenix,80968.0,Finance
+100,Bob,33,Houston,33040.17,Finance
